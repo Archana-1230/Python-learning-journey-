@@ -1,4 +1,5 @@
 🐍 Day 1: Python Basics – Variables, Input/Output, Data Types, Comments
+
 📘 What is Python?
 Python is a high-level, interpreted, and easy-to-read programming language used in web dev, automation, data science, AI, and more.
 

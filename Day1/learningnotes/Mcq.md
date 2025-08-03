@@ -1,4 +1,5 @@
 MCQs
+
 Q1. What will be the output of print(type(10.5))?
 A) <class 'int'>
 B) <class 'float'> ✅

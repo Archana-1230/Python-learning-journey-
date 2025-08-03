@@ -10,3 +10,4 @@ item2=float(input("Enter price of item 2: "))
 total=item1 + item2
 print("Hi", name + ", your total bill is:", total)
 
+

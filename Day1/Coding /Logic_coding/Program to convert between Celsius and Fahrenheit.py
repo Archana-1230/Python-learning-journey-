@@ -1,4 +1,4 @@
-#program to convert temperature 
+#program to convert temperatures
 Choice=input("Enter your choice (c/f): "). upper()
 if Choice=='C':
     c=float(input("Enter the Celsius:"))

@@ -9,9 +9,9 @@ print("sum is",a+b)
 #Swap two numbers (without using third variable)
 a=int(input("Enter first number:"))
 b=int(input("Enter second number:"))
-print("Before Swapping",a,b)
+print("Before Swapping:",a,b)
 a,b=b,a
-print("After swapping",a,b)
+print("After swapping:",a,b)
 # Convert input to int and float and Check the data type of input.
 a=int(input("Enter a:"))
 b=float(a)

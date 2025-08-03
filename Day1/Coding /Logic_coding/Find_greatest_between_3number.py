@@ -1,3 +1,4 @@
+#Find Greater number between three numbers 
 a=int(input("Enter First number"))
 b=int(input("Enter Second number"))
 c=int(input("Enter third number "))

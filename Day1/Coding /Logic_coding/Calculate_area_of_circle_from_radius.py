@@ -1,5 +1,4 @@
 #Program to calculate the area of a circle from the radius
-
 r=int(input("Enter the radius of the circle:"))
 π=3.14
 print("Area of the circle:",π*(r**2))

@@ -1,4 +1,4 @@
-#Reverse the digit
+#Reverse the digits
 a=int(input("Enter the digit:"))
 c=0
 while a>0:
